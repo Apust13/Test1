@@ -1,0 +1,10 @@
+#header .inner{
+	   background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), #731F14), url("images/bg02.png");
+}
+
+.button.alt {
+			background-color: #731F14;
+		}
+.button.alt:hover {
+				background-color: #94291B;
+			}
